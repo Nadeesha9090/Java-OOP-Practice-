@@ -1,0 +1,20 @@
+Increase reliability .
+
+ex : 
+sum(int,int);
+sum(int,int,int)
+
+summing  numbers 
+
+Overloading can be achieved by
+	1. Changing the number of arguments.
+	2. Changing Data types of the arguments.
+
+* Overloading is not possible by changing the return type.
+* Main method can overload.
+
+* TypePromotion happen when given argument is mismatched.
+	byte -> short
+	short -> int
+	char -> int
+	------------
