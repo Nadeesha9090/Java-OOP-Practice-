@@ -1,8 +1,9 @@
-    
-    Static keyword mainly use for memory management purpose
-    We can apply static key words with 
+Static keyword mainly use for memory management purpose
+We can apply static key words with 
             1.variable (also known as class variable)
             2.method (also known as class method)
             3.block
             4.nested class
+
+
 
